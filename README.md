@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- ⚡ Fun fact **I love Spirituality and Quantum physics**
+- ⚡ **I am interested in web3 and ai ml **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
