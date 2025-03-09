@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/yatinkhajuria12" target="blank"><img src="https://img.shields.io/twitter/follow/yatinkhajuria12?logo=twitter&style=for-the-badge" alt="yatinkhajuria12" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently pursing my BTech in Computer Science 
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning Python
 
-- ⚡ **I am interested in web3 and ai ml **
+- ⚡ I'm interested in WEB3 and Machine learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
