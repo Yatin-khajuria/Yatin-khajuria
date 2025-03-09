@@ -1,7 +1,7 @@
 ![MasterHead](https://media.tenor.com/PfwqKNNydVEAAAAC/welcome.gif)
 <h1 align="center">Hi 👋, I'm Yatin Khajuria</h1>
 <h3 align="center">currently a learner:)</h3>
-<img align="right" alt="coding" width="400" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+<img align="center" alt="coding" width="400" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatin-khajuria&label=Profile%20views&color=0e75b6&style=flat" alt="yatin-khajuria" /> </p>
